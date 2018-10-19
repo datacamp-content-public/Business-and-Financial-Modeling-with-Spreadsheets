@@ -1,0 +1,11 @@
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Emacs backup files
+*~
+
+# OS-specific files and directories
+.DS_Store
